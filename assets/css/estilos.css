@@ -1,0 +1,10 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+#Profile-Section {
+  background-image: url("../img/bg-profile.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+}
