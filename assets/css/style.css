@@ -9,14 +9,9 @@ body {
   background-position: right;
 }
 
-.singleCol {
-  max-width: 750px;
-  margin: 0 auto;
-}
-
 .carousel {
   height: 55em;
-  width: 60em;
+  width: auto;
 }
 
 .carousel-indicators .active {
@@ -25,7 +20,7 @@ body {
 
 .carousel-item img {
   height: 50em;
-  width: 80%;
+  width: auto;
   margin: auto;
 }
 
