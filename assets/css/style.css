@@ -56,3 +56,11 @@ body {
 .accordion-body {
   border: solid 1px rgb(31, 31, 31);
 }
+
+#btn-back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+  border-radius: 75%;
+}
