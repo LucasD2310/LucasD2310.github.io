@@ -27,21 +27,21 @@ body {
 .accordion-button {
   font-size: inherit;
   color: #e8e8e8;
-  background: rgb(31, 31, 31);
+  background: rgb(147, 109, 14);
 }
 
 .accordion-button::after {
-  filter: brightness(0%) invert(70%);
+  filter: brightness(0%) invert(100%);
 }
 
 .accordion-button:not(.collapsed) {
   font-size: inherit;
   color: #e8e8e8;
-  background: rgb(31, 31, 31);
+  background: rgb(147, 109, 14);
 }
 
 .accordion-button:not(.collapsed)::after {
-  filter: brightness(0%) invert(70%);
+  filter: brightness(0%) invert(100%);
 }
 
 .accordion-button:focus {
@@ -49,7 +49,7 @@ body {
 }
 
 .accordion-body {
-  border: solid 1px rgb(31, 31, 31);
+  border: solid 1px rgb(99, 75, 14);
 }
 
 #btn-back-to-top {
