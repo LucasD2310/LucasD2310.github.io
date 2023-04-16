@@ -93,3 +93,33 @@ body {
     padding: 0.5em;
   }
 }
+
+@media screen and (max-width: 576px) {
+  .carousel {
+    height: 30em;
+    width: auto;
+  }
+  
+  .carousel-item img {
+    height: 25em;
+    width: auto;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 412px) {
+  .carousel {
+    height: 25em;
+    width: auto;
+  }
+  
+  .carousel-item img {
+    height: 20em;
+    width: auto;
+    margin: auto;
+  }
+
+  .hide-text {
+    display: none;
+  }
+}
