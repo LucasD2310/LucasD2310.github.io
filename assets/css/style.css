@@ -13,6 +13,10 @@ body {
   background-position: right;
 }
 
+#github-button {
+  background-color: rgb(147, 109, 14);
+}
+
 #About-me {
   padding-top: 5em;
   padding-bottom: 5em;
@@ -90,7 +94,7 @@ body {
 
 @media screen and (max-width: 768px) {
   #Profile-Text {
-    background-color: rgb(128, 128, 128, 0.8);
+    background-color: rgb(128, 128, 128, 0.9);
     padding: 0.5em;
   }
 }
