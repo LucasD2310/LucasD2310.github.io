@@ -79,3 +79,17 @@ body {
   background-color: rgb(147, 109, 14);
   color: #e8e8e8;
 }
+
+@media screen and (max-width: 1200px) {
+  #Profile-Text {
+    background-color: rgb(128, 128, 128, 0.7);
+    padding: 1.5em;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #Profile-Text {
+    background-color: rgb(128, 128, 128, 0.8);
+    padding: 0.5em;
+  }
+}
