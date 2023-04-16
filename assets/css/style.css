@@ -86,16 +86,8 @@ body {
 }
 
 @media screen and (max-width: 1200px) {
-  #Profile-Text {
-    background-color: rgb(128, 128, 128, 0.7);
-    padding: 1.5em;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  #Profile-Text {
-    background-color: rgb(128, 128, 128, 0.9);
-    padding: 0.5em;
+  #Profile-Section {
+    background-position: left;
   }
 }
 
