@@ -78,6 +78,7 @@ body {
   display: none;
   background-color: rgb(147, 109, 14);
   color: #e8e8e8;
+  z-index: 999;
 }
 
 @media screen and (max-width: 1200px) {
